@@ -1,7 +1,5 @@
-
-⚡ **The enemy of execution is complexity**
-
 🌱 **Everything will be okay when you are okay with everything**
+⚡ **The enemy of execution is complexity**
 
 <!--
 ### Hi there 👋
