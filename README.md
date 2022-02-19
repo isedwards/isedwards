@@ -1,5 +1,7 @@
 🌱 **Everything will be okay when you are okay with everything**
 
+ 🔭 **Be the change you want to see in yourself**
+
 ⚡ **The enemy of execution is complexity**
 
 <!--
